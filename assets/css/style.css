@@ -245,6 +245,8 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/bg1.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
+  background-attachment: fixed;
+  background-position: center;
 }
 @media (min-width: 992px) {
   #hero {
